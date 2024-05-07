@@ -2,7 +2,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=NicolasBSCorrea&show_icons=true&theme=light"
+    srcset="https://github-readme-stats.vercel.app/api?username=NicolasBSCorrea&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -13,6 +13,6 @@
   
 </picture> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBSCorrea&size_weight=0.5&count_weight=0.5)
+
 
 
