@@ -17,7 +17,7 @@
     <a href="https://t.me/nicolasbscorrea"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="https://discord.com/users/804531155499745300"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/nicolasbscorrea/"><img src="https://img.shields.io/badge/Linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="linktr.ee/nicolasbscorrea"><img src="https://img.shields.io/badge/Linktree-0d1117?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+    <a href="https://www.linktr.ee/nicolasbscorrea/"><img src="https://img.shields.io/badge/Linktree-0d1117?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 </p>
 
 
