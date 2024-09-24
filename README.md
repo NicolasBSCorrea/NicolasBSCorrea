@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://t.me/nicolasbscorrea"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="https://github.com/nicolasbscorrea"><img src="https://img.shields.io/badge/Github-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://discord.com/users/804531155499745300"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
